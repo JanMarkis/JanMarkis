@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanMarkis
-- 👀 I’m interested in Ethereum App Development via NFT, CryptoCurrency, CrowdSale.
-- 💞️ I’m looking to collaborate on various Blockchain projects.
+- 👀 I’m interested in React & Redux Full Stack Web Application Development.
+- 💞️ I’m looking to collaborate on various React related projects.
 - 📫 My mail address is `janmarkirsten91@outlook.de`
 
 <!---
